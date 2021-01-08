@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.fnafraarripoff.TNAG"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>TNAG</name>
+
+  <description>
+      Three Night's At Gamer's mobile ;)  .
+  </description>
+
+  <author href="https://build.phonegap.com" email="puppeteater1@gmail.com">
+      Raffie Broeken
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
+
+
+  <weblink>http://www.smith-company-ltd.com</weblink>
+
+
+  <logo alt="Logo of Smith and Company Ltd." address="http://www.smith-company-ltd.com/logo.jpg"/>
+
+
+</letter>
